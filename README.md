@@ -20,12 +20,10 @@
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:nhosalikar@gmail.com">
+  <a href="mailto:jampalapoojitha@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/NHosalikar">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
 ---
