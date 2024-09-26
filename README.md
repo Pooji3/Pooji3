@@ -20,7 +20,7 @@
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jampalapoojitha@gmail.com">
+  <a href="mailto:jampalapoojitha2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
   
